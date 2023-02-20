@@ -11,6 +11,4 @@
 * Занимаюсь вокалом
 * Работаю технологом в полиграфической компании, но хочу поменять свою сферу деятельности и попробовать себя в тестировании
 
-<img src="https://lh3.google.com/u/0/d/1bqeNAfJrFENaHUlJb5_7iqmqW8aqsGw0=w940-h1255-iv1" class="a-b-ta-Ua" alt="Отображается файл &quot;IMG_20220604_224646_505.jpg&quot;" aria-hidden="true">
-
 ![IMG_20220604_224646_505](https://user-images.githubusercontent.com/125288096/220179389-7d2ab828-5b89-4e75-8795-61e8f5073613.jpg)
